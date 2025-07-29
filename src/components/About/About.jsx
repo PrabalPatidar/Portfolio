@@ -7,7 +7,7 @@ const About = () => {
   return (
     <section
       id="about"
-      className="py-4 px-[7vw] md:px-[7vw] lg:px-[20vw] font-sans mt-16 md:mt-24 lg:mt-32"
+      className="py-4 w-screen px-2 sm:px-4 md:px-8 font-sans mt-16 md:mt-24 lg:mt-32 overflow-x-hidden"
     >
       <div className="flex flex-col-reverse md:flex-row justify-between items-center">
         {/* Left Side */}
@@ -40,11 +40,14 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a full-stack developer with over 2 years of experience in
+            {/* I am a full-stack developer with over 2 years of experience in
             building scalable web applications. Skilled in both front-end and
             back-end development, I specialize in the MERN stack and other
             modern technologies to create seamless user experiences and
-            efficient solutions.
+            efficient solutions. */}
+             A Computer Science graduate passionate about building impactful web applications. Skilled in JavaScript, React.js, Node.js, and the MERN stack, I create full-stack solutions that solve real problems. I'm looking for full-time roles or internships where I can contribute, grow, and collaborate with forward-thinking teams. Let’s build something amazing together!
+
+
           </p>
           {/* Resume Button */}
           <a

@@ -11,7 +11,7 @@ const Footer = () => {
   };
 
   return (
-    <footer className="text-white py-8 px-[12vw] md:px-[7vw] lg:px-[20vw]">
+    <footer className="text-white py-8 w-screen px-2 sm:px-4 md:px-8 overflow-x-hidden">
       <div className="container mx-auto text-center">
         {/* Name / Logo */}
         <h2 className="text-xl font-semibold text-purple-500">Prabal Patidar</h2>
