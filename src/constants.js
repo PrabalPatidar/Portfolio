@@ -47,7 +47,7 @@ import respLogo from './assets/work_logo/responsice-img.png';
 import Password_generatorLogo from './assets/work_logo/password_gen_img.png';
 import bgChangeLogo from './assets/work_logo/bg_changer_img.png';
 import todoLogo from './assets/work_logo/todo_img.png';
-import bookstoreLogo from './assets/work_logo/Bookstore_img.png';
+import bookstoreLogo from './assets/work_logo/Bookstore.png';
 import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
