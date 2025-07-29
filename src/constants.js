@@ -42,7 +42,7 @@ import iistLogo from './assets/education_logo/iist_logo.png';
 import mpsLogo from './assets/education_logo/mps_logo.png'; 
 
 // Project Section Logo's
-import githubdetLogo from './assets/work_logo/github_det.png';
+import githubdetLogo from './assets/work_logo/github_img.png';
 import respLogo from './assets/work_logo/responsice-img.png';
 import Password_generatorLogo from './assets/work_logo/password_gen_img.png';
 import bgChangeLogo from './assets/work_logo/bg_changer_img.png';
